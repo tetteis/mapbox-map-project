@@ -4,7 +4,7 @@ Solution for the Mapbox Map project on [Learn JavaScript](https://learnjavascrip
 
 The goal of this project is to build a map using the Mapbox SDK and add a marker that displays a popup when you click on it.
 
-To get this working you need to sign up on the [mapbox.com](https://www.mapbox.com/) website by clicking on the **Sign in** then **Sign up for Mapbox**. You will then find your access token on the page after your login, which will looks like this:
+To get this working you need to sign up on the [mapbox.com](https://www.mapbox.com/) website. You will then find your access token on the page after your login, which will looks like this:
 
 **pk.eyxxxxxxxxxxx...**
 
